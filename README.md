@@ -1,2 +1,1 @@
-# curso-em-video-python
-Repositório de estudo
+Repositório para fins de estudos do curso em video python.
