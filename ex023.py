@@ -6,5 +6,3 @@ Exemplo:
 numero = int(input('Digite um número: '))
 n = str(numero)
 print(f'unidade:{n[3]}  dezena:{n[2]}  centena:{n[1]}  milhar:{n[0]}')
-
-
